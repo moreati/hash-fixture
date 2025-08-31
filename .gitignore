@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: 2025 Alex Willmer <alex@moreati.org.uk>
+# SPDX-License-Identifier: MIT
+
+__pycache__/
+.coverage
+.coverage.*
+.mypy_cache/
+.nox/
+.pytest_cache/
+.ruff_check/
+.venv/
+*.egg-info
+*.py[cdoz]
+build/
+dist/
+htmlcov/
+tests/fixtures/*/hf-*
